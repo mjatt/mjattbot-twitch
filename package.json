@@ -1,0 +1,15 @@
+{
+  "name": "mjattbot-twitch",
+  "version": "1.0.0",
+  "description": "twitch bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log-to-file": "^1.2.1",
+    "tmi.js": "^1.2.1"
+  }
+}
